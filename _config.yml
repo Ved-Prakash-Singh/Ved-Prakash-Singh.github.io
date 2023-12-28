@@ -3,6 +3,7 @@ title:               Ved Prakash Blog
 tagline:             'My Learning Notes'
 description:         'Hi, this is Ved Prakash. I’m documenting my learning notes in this blog. Besides, I’m working as a modeler in a model development team in an organization.'
 #url:                 http://lanyon.getpoole.com
+url:                 https://ved-prakash-singh.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
