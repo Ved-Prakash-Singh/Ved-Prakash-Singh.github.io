@@ -11,6 +11,8 @@ Broadly, Machine Learning Algorithms can be categorized into below mentioned cat
    b. Dimensionality Reduction
    c. Association Rule Learning
    d. Density Estimation
-3. Reinforcement Learning: In reinforcement learning, agent (model) learns to make sequences of decisions by interacting with an environment. The agent receives feedback in the form of rewards or punishments based on the actions it takes, and its goal is to learn a strategy, known as a policy, that maximizes the cumulative reward over time. Reinforcement learning is inspired by how humans and animals learn from trial and error to achieve goals in dynamic and uncertain environments. Popular Reinforcement Learning algorithms include Q-Learning, Deep Q Networks (DQN), Policy Gradient methods, and Actor-Critic methods.
+3. Semisupervised Learning:
+
+4. Reinforcement Learning: In reinforcement learning, agent (model) learns to make sequences of decisions by interacting with an environment. The agent receives feedback in the form of rewards or punishments based on the actions it takes, and its goal is to learn a strategy, known as a policy, that maximizes the cumulative reward over time. Reinforcement learning is inspired by how humans and animals learn from trial and error to achieve goals in dynamic and uncertain environments. Popular Reinforcement Learning algorithms include Q-Learning, Deep Q Networks (DQN), Policy Gradient methods, and Actor-Critic methods.
    
-4. Semisupervised Learning
+5. Self-supervised Learning
