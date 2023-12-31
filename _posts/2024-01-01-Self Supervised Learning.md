@@ -4,9 +4,10 @@ title: Type of Machine Learning Algorithms
 ---
 
 Broadly, Machine Learning Algorithms can be categorized into below mentioned categories
-1. Supervised Learning
-   In Supervised Learning algorithm, machine needs label to learn the pattern in the input features. The label used as external supervision, and during the learning process, machine try to come u with some function which predicts the label with least error. Once, machine has learned then it can predict the label based upon input features.
-3. Unsupervised Learning
+1. Supervised Learning:
+   In Supervised Learning algorithm, machine needs label (external supervision) to learn the pattern in the input features. The label used as external supervision, and during the learning process, machine try to come u with some function which predicts the label with least error. Once, machine has learned then it can predict the label based upon input features.
+3. Unsupervised Learning:
+   In Unsupervised Learning algorithm, machine doesn't need label (no external supervision) to learn the pattern. The objective here is different from the objective in Supervised Learning algorithm. In unsupervised learning, the optimization process is driven by the algorithm's specific goals, whether it's grouping similar data points, capturing important features, generating realistic samples, or estimating underlying distributions. The absence of explicit labels makes the optimization more focused on the intrinsic properties of the data rather than error with respect to labeled targets.
    
 5. Semi-supervised Learning
 6. Reinforcement Learning
