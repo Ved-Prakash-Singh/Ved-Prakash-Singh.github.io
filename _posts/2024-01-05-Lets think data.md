@@ -15,7 +15,15 @@ Data are in various forms, they are online data, they are in term of physical da
   <li>If you could download the entire 2025 Global Datasphere at an average of 25 Mb/s, today's average connection speed across the United States, then it would take one person 1.8 billion years to do it</li>
   <li>If every person in the world could help and never rest, then you could get it done in 81 days</li>
   <li>There is 90% replicated data in the global datasphere, with only 10% being unique data.</li>
-  <li>Milk</li>
+  <li>A Day in data</li>
+  <ul>
+    <li> 294 billion emails are sent everyday </li>
+    <li> 65 billion messages sent over WhatsApp everyday</li>
+    <li> 2 billion minutes of voice and videocall made on WhatsApp everyday </li>
+    <li> 3.5 billion seaches made from gogle everyday</li>
+    <li> 500 millions tweets are sent everyday </li>
+    <li> 4 petabyte of data created by facebook everyday</li>
+  </ul>
 </ul>
   
 Reference: <br>
