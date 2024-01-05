@@ -9,7 +9,7 @@ Yes, you are right, it is very difficult or near impossible to get these numbers
 Data are in various forms, they are online data, they are in term of physical data like book, paper documents, they are also in stand alone disk storages etc. In this post, I will be focussed around online data, which can be considered as lower bound number.
 
 <begin itemize>
-/item As per an estimate from International Data Corporation (IDC), the overall online datasize was around 64 zettabytes in 2020. IDC predicts that the Global Datasphere will grow from 33 Zettabytes in 2018 to 175 Zettabytes by 2025.
+\item As per an estimate from International Data Corporation (IDC), the overall online datasize was around 64 zettabytes in 2020. IDC predicts that the Global Datasphere will grow from 33 Zettabytes in 2018 to 175 Zettabytes by 2025.
 One zettabyte is approximately equal to 1 billion terabytes. 
 If you were able to store the entire Global Datasphere on DVDs, then you would have a stack of DVDs that could get you to the moon 23 times or circle Earth 222 times.
 If you could download the entire 2025 Global Datasphere at an average of 25 Mb/s, today's average connection speed across the United States, then it would take one person 1.8 billion years to do it, or if every person in the world could help and never rest, then you could get it done in 81 days
