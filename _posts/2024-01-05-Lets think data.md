@@ -27,7 +27,7 @@ Data are in various forms, they are online data, they are in term of physical da
   </ul>
 </ul>
 
-Teaser for subsequent posts: <b>
+Teaser for subsequent posts: <br>
 What fraction of these data are labelled data? How labelling is constraint to use these data for AI algorithms?  What is the data collection and labelling market size? What are the techniques which researchers have came up with to utilize unlabelled data? How large language model grown by structuring problem in such a way that unlabelled data has been used as labelled data.
 
 Reference: <br>
