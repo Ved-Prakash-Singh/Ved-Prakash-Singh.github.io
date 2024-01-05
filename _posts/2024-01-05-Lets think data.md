@@ -12,9 +12,11 @@ As per an estimate from International Data Corporation (IDC), the overall online
 One zettabyte is approximately equal to 1 billion terabytes. 
 If you were able to store the entire Global Datasphere on DVDs, then you would have a stack of DVDs that could get you to the moon 23 times or circle Earth 222 times.
 If you could download the entire 2025 Global Datasphere at an average of 25 Mb/s, today's average connection speed across the United States, then it would take one person 1.8 billion years to do it, or if every person in the world could help and never rest, then you could get it done in 81 days
+There is 90% replicated data in the global datasphere, with only 10% being unique data. 
 
-Reference: 
+Reference: <br>
 https://www.seagate.com/files/www-content/our-story/trends/files/idc-seagate-dataage-whitepaper.pdf
 https://www.visualcapitalist.com/wp-content/uploads/2019/04/data-generated-each-day-wide.html
+https://www.statista.com/statistics/1185888/worldwide-global-datasphere-unique-replicated-data/
 
 **what fraction of these data are labelled data? How labelling is constraint to use these data for AI algorithms? What are the techniques which researchers have came up with to utilize unlabelled data? 
