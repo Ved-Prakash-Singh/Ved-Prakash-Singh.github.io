@@ -8,6 +8,12 @@ Yes, you are right, it is very difficult or near impossible to get these numbers
 
 Data are in various forms, they are online data, they are in term of physical data like book, paper documents, they are also in stand alone disk storages etc. In this post, I will be focussed around online data, which can be considered as lower bound number.
 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 <begin itemize>
 \item As per an estimate from International Data Corporation (IDC), the overall online datasize was around 64 zettabytes in 2020. IDC predicts that the Global Datasphere will grow from 33 Zettabytes in 2018 to 175 Zettabytes by 2025.
 One zettabyte is approximately equal to 1 billion terabytes. 
