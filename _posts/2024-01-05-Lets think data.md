@@ -2,7 +2,7 @@
 layout: post
 title: Lets think data
 ---
-Have you ever wondered, how much data is there in the world? At what accelaration and velocity, these data are being created? How much of these data are original and how much are duplicate?
+Have you ever wondered, how much data is there in the world? At what acceleration and velocity, these data are being created? How much of these data are original and how much are duplicate?
 
 Yes, you are right, it is very difficult or near impossible to get these numbers. In this post, I will talk about some of the lower bond approximated numbers based upon certain research organizations. 
 
