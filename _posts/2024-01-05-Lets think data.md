@@ -13,7 +13,7 @@ Data are in various forms, they are online data, they are in term of physical da
   <li>One zettabyte is approximately equal to 1 billion terabytes. </li>
   <li>If you were able to store the entire Global Datasphere on DVDs, then you would have a stack of DVDs that could get you to the moon 23 times or circle Earth 222 times.</li>
   <li>If you could download the entire 2025 Global Datasphere at an average of 25 Mb/s, today's average connection speed across the United States, then it would take one person 1.8 billion years to do it</li>
-  <li>or if every person in the world could help and never rest, then you could get it done in 81 days</li>
+  <li>If every person in the world could help and never rest, then you could get it done in 81 days</li>
   <li>There is 90% replicated data in the global datasphere, with only 10% being unique data.</li>
   <li>Milk</li>
 </ul>
